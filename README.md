@@ -1,14 +1,14 @@
-<h1 align="center">Hi there, I'm Hassan ALi 👋</h1>
+<h1 align="center">Hi there, I'm Hassan ALi </h1>
 
 <p align="center">
-  🚀 DevOps Engineer | Full-Stack Developer | Aspiring Data Scientist <br>
-  🎓 BSCS Student @ National Textile University, Faisalabad <br>
-  ☁️ Cloud & AI Enthusiast | E-commerce Technologist | Problem Solver
+  -> DevOps Engineer | Full-Stack Developer | Aspiring Data Scientist <br>
+  -> BSCS Student @ National Textile University, Faisalabad <br>
+  -> Cloud & AI Enthusiast | E-commerce Technologist | Problem Solver
 </p>
 
 ---
 
-## 🧭 About Me
+##  About Me
 
 I am a passionate and results-driven Computer Science undergraduate with a strong foundation in software engineering, DevOps practices, and modern development workflows. With over 2 years of hands-on experience in **full-stack development**, **DevOps engineering**, and managing **e-commerce platforms**, I thrive in dynamic environments that challenge my ability to build scalable, secure, and maintainable systems.
 
@@ -16,7 +16,7 @@ Currently, I'm expanding my skill set into **Data Science** and **Cloud Computin
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Bachelor of Science in Computer Science (BSCS)**  
 *National Textile University, Faisalabad*  
@@ -24,20 +24,20 @@ Currently, I'm expanding my skill set into **Data Science** and **Cloud Computin
 
 ---
 
-## 💼 Professional & Technical Experience
+##  Professional & Technical Experience
 
-### 🔧 DevOps & Development
+###  DevOps & Development
 - Designed and implemented **CI/CD pipelines** using tools like GitHub Actions and Jenkins.
 - Containerized applications using **Docker**, deployed on **Linux-based environments**.
 - Automated infrastructure provisioning and configuration management.
 - Built scalable RESTful APIs and full-stack applications using **MERN Stack**.
 
-### 🧪 Data Science (Learning Phase)
+###  Data Science (Learning Phase)
 - Proficient in **Python** for data analysis using Pandas, NumPy, and Matplotlib.
 - Working on projects involving **EDA**, **machine learning**, and **data visualization**.
 - Currently learning model deployment and real-world ML workflows.
 
-### ☁️ Cloud Computing
+###  Cloud Computing
 - Hands-on experience with **AWS EC2**, **S3**, and **IAM**.
 - Exploring **Google Cloud Platform (GCP)** and **Azure** to understand cloud-native architectures.
 - Learning container orchestration with **Kubernetes**.
@@ -49,7 +49,7 @@ Currently, I'm expanding my skill set into **Data Science** and **Cloud Computin
 
 ---
 
-## 🔢 Data Structures & Algorithms
+##  Data Structures & Algorithms
 
 - Solved over **500+ problems** across platforms like LeetCode, HackerRank, and Codeforces.
 - Strong command over algorithms, dynamic programming, recursion, and graph theory.
@@ -57,22 +57,22 @@ Currently, I'm expanding my skill set into **Data Science** and **Cloud Computin
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Domain             | Tools & Technologies                                                                 |
 |--------------------|--------------------------------------------------------------------------------------|
-| 💻 Languages        | Python, JavaScript, C++, Bash, HTML/CSS                                             |
-| 🌐 Web Development | React.js, Node.js, Express.js, MongoDB, Firebase                                     |
-| 🔧 DevOps           | Git, Docker, Jenkins, GitHub Actions, Nginx, Linux                                  |
-| ☁️ Cloud Platforms  | AWS (EC2, S3, IAM), GCP (learning), Azure (learning)                                |
-| 📊 Data Tools       | Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook                           |
-| 🗄️ Databases        | MySQL, MongoDB, PostgreSQL                                                          |
-| 🧪 Testing           | Postman, Jest (learning), Unit Testing Frameworks                                   |
-| ⚙️ Other Tools      | VS Code, GitHub, Figma, Trello, Slack                                               |
+|  Languages        | Python, JavaScript, C++, Bash, HTML/CSS                                             |
+|  Web Development | React.js, Node.js, Express.js, MongoDB, Firebase                                     |
+|  DevOps           | Git, Docker, Jenkins, GitHub Actions, Nginx, Linux                                  |
+|  Cloud Platforms  | AWS (EC2, S3, IAM), GCP (learning), Azure (learning)                                |
+|  Data Tools       | Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook                           |
+|  Databases        | MySQL, MongoDB, PostgreSQL                                                          |
+|  Testing           | Postman, Jest (learning), Unit Testing Frameworks                                   |
+|  Other Tools      | VS Code, GitHub, Figma, Trello, Slack                                               |
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hassanali-web&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
@@ -81,7 +81,7 @@ Currently, I'm expanding my skill set into **Data Science** and **Cloud Computin
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 Some of my featured projects include:
 
@@ -91,12 +91,12 @@ Some of my featured projects include:
 
 ---
 
-## 📚 Currently Exploring
+## Currently Exploring
 
-- 🧠 Deep Learning & AI Models
-- ☁️ Serverless Architecture on AWS Lambda
-- 📦 Kubernetes and Cloud-Native Microservices
-- 🛡️ Cloud Security Best Practices
+-  Deep Learning & AI Models
+-  Serverless Architecture on AWS Lambda
+-  Kubernetes and Cloud-Native Microservices
+-  Cloud Security Best Practices
 
 ---
 

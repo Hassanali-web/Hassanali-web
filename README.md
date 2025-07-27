@@ -42,7 +42,7 @@ Currently, I'm expanding my skill set into **Data Science** and **Cloud Computin
 - Exploring **Google Cloud Platform (GCP)** and **Azure** to understand cloud-native architectures.
 - Learning container orchestration with **Kubernetes**.
 
-### 🛒 E-Commerce Development
+###  E-Commerce Development
 - Developed and maintained multiple e-commerce platforms with end-to-end functionality.
 - Integrated payment gateways, order management systems, and admin dashboards.
 - Focused on performance, SEO, and user experience optimization.

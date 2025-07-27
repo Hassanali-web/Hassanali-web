@@ -1,201 +1,104 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Hassan Ali | DevOps Engineer & E-commerce Expert</title>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
-  <style>
-    * {
-      box-sizing: border-box;
-    }
-    body {
-      font-family: 'Roboto', sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f9fbfc;
-      color: #333;
-    }
-    header {
-      background-color: #1f2f46;
-      color: #fff;
-      padding: 60px 20px;
-      text-align: center;
-    }
-    header h1 {
-      font-size: 3em;
-      margin-bottom: 10px;
-    }
-    header p {
-      font-size: 1.3em;
-      font-weight: 300;
-    }
-    main {
-      max-width: 1100px;
-      margin: 40px auto;
-      padding: 0 20px;
-    }
-    section {
-      margin-bottom: 40px;
-    }
-    h2 {
-      font-size: 2em;
-      margin-bottom: 15px;
-      color: #1f2f46;
-      border-left: 5px solid #0077cc;
-      padding-left: 10px;
-    }
-    .card {
-      background-color: #fff;
-      border-radius: 10px;
-      box-shadow: 0 3px 10px rgba(0,0,0,0.08);
-      padding: 20px;
-      margin-bottom: 20px;
-    }
-    ul {
-      padding-left: 20px;
-    }
-    .card h3 {
-      margin-top: 0;
-      color: #0077cc;
-    }
-    footer {
-      text-align: center;
-      background-color: #1f2f46;
-      color: white;
-      padding: 20px;
-      margin-top: 50px;
-    }
-    a {
-      color: #0077cc;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
+<h1 align="center">Hi there, I'm Hassan ALi 👋</h1>
 
-  <header>
-    <h1>Hassan Ali</h1>
-    <p>BSCS Student | DevOps Engineer | E-commerce Consultant | Data Science & Cloud Computing Enthusiast</p>
-  </header>
+<p align="center">
+  🚀 DevOps Engineer | Full-Stack Developer | Aspiring Data Scientist <br>
+  🎓 BSCS Student @ National Textile University, Faisalabad <br>
+  ☁️ Cloud & AI Enthusiast | E-commerce Technologist | Problem Solver
+</p>
 
-  <main>
+---
 
-    <section>
-      <h2>About Me</h2>
-      <div class="card">
-        <p>I am <strong>Hassan Ali</strong>, a dedicated Bachelor of Science in Computer Science (BSCS) student at <strong>National Textile University, Faisalabad</strong>. I have a strong technical foundation in computing and software engineering, complemented by a growing specialization in <strong>DevOps Engineering</strong>.</p>
-        <p>Currently, I am exploring advanced DevOps tools and practices including CI/CD pipelines, container orchestration, and infrastructure as code. My passion for automation and scalable cloud infrastructure is further enhanced by my curiosity in emerging domains like <strong>Data Science</strong> and <strong>Cloud Computing</strong>.</p>
-        <p>In parallel, I bring over 3 years of real-world experience in the <strong>e-commerce industry</strong>, where I have built, optimized, and managed successful online businesses, applying both technical and strategic skills to drive growth and efficiency.</p>
-      </div>
-    </section>
+## 🧭 About Me
 
-    <section>
-      <h2>Education</h2>
-      <div class="card">
-        <h3>National Textile University, Faisalabad</h3>
-        <p><strong>BS in Computer Science (BSCS)</strong><br>
-        <em>2021 – 2025 (Expected)</em></p>
-        <p>Focused coursework in:</p>
-        <ul>
-          <li>Software Engineering & DevOps</li>
-          <li>Cloud Computing Fundamentals</li>
-          <li>Database Management Systems</li>
-          <li>Data Structures & Algorithms</li>
-          <li>Artificial Intelligence & Machine Learning (in progress)</li>
-        </ul>
-      </div>
-    </section>
+I am a passionate and results-driven Computer Science undergraduate with a strong foundation in software engineering, DevOps practices, and modern development workflows. With over 2 years of hands-on experience in **full-stack development**, **DevOps engineering**, and managing **e-commerce platforms**, I thrive in dynamic environments that challenge my ability to build scalable, secure, and maintainable systems.
 
-    <section>
-      <h2>Skills & Technologies</h2>
-      <div class="card">
-        <h3>DevOps & Infrastructure</h3>
-        <ul>
-          <li>CI/CD Pipelines – GitHub Actions, Jenkins</li>
-          <li>Containerization – Docker, Kubernetes</li>
-          <li>Infrastructure as Code – Terraform, Ansible (learning)</li>
-          <li>Monitoring & Logging – Prometheus, Grafana</li>
-        </ul>
+Currently, I'm expanding my skill set into **Data Science** and **Cloud Computing**, exploring the intersection of intelligent analytics and high-performance infrastructure.
 
-        <h3>Cloud Platforms</h3>
-        <ul>
-          <li>Amazon Web Services (EC2, S3, Lambda)</li>
-          <li>Google Cloud Platform (GCP)</li>
-        </ul>
+---
 
-        <h3>Programming Languages</h3>
-        <ul>
-          <li>Python, Bash, JavaScript</li>
-          <li>SQL & NoSQL Databases (MySQL, MongoDB)</li>
-        </ul>
+## 🎓 Education
 
-        <h3>Data Science Tools (Learning)</h3>
-        <ul>
-          <li>Pandas, NumPy, Matplotlib, Scikit-learn</li>
-        </ul>
+**Bachelor of Science in Computer Science (BSCS)**  
+*National Textile University, Faisalabad*  
+*Expected Graduation: 2 *  
 
-        <h3>Web & E-commerce</h3>
-        <ul>
-          <li>Shopify, WooCommerce, WordPress</li>
-          <li>Amazon Seller Central & Dropshipping Platforms</li>
-          <li>SEO, Digital Marketing, Analytics Integration</li>
-        </ul>
-      </div>
-    </section>
+---
 
-    <section>
-      <h2>Professional Experience</h2>
-      <div class="card">
-        <h3>E-commerce Consultant & Developer (Freelance)</h3>
-        <p><em>2020 – Present</em></p>
-        <ul>
-          <li>Built and managed multiple online stores using Shopify and WooCommerce.</li>
-          <li>Automated inventory management and integrated third-party APIs for product sourcing and logistics.</li>
-          <li>Executed SEO and digital marketing strategies to boost customer acquisition and retention.</li>
-        </ul>
-      </div>
+## 💼 Professional & Technical Experience
 
-      <div class="card">
-        <h3>DevOps Intern – Personal & Academic Projects</h3>
-        <p><em>2023 – Present</em></p>
-        <ul>
-          <li>Developed end-to-end CI/CD pipelines for student projects using GitHub Actions.</li>
-          <li>Deployed applications in containerized environments using Docker and Kubernetes on cloud VMs.</li>
-          <li>Monitored systems and implemented basic logging infrastructure with Prometheus and Grafana.</li>
-        </ul>
-      </div>
-    </section>
+### 🔧 DevOps & Development
+- Designed and implemented **CI/CD pipelines** using tools like GitHub Actions and Jenkins.
+- Containerized applications using **Docker**, deployed on **Linux-based environments**.
+- Automated infrastructure provisioning and configuration management.
+- Built scalable RESTful APIs and full-stack applications using **MERN Stack**.
 
-    <section>
-      <h2>Certifications</h2>
-      <div class="card">
-        <ul>
-          <li>Introduction to DevOps – Coursera</li>
-          <li>AWS Cloud Practitioner (in progress)</li>
-          <li>Google Data Analytics (planned)</li>
-        </ul>
-      </div>
-    </section>
+### 🧪 Data Science (Learning Phase)
+- Proficient in **Python** for data analysis using Pandas, NumPy, and Matplotlib.
+- Working on projects involving **EDA**, **machine learning**, and **data visualization**.
+- Currently learning model deployment and real-world ML workflows.
 
-    <section>
-      <h2>Contact</h2>
-      <div class="card">
-        <p><strong>Email:</strong> <a href="mailto:hassan.ali@example.com">hassan.ali@example.com</a></p>
-        <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/hassanali" target="_blank">linkedin.com/in/hassanali</a></p>
-        <p><strong>GitHub:</strong> <a href="https://github.com/hassanali" target="_blank">github.com/hassanali</a></p>
-        <p><strong>Location:</strong> Faisalabad, Pakistan</p>
-      </div>
-    </section>
+### ☁️ Cloud Computing
+- Hands-on experience with **AWS EC2**, **S3**, and **IAM**.
+- Exploring **Google Cloud Platform (GCP)** and **Azure** to understand cloud-native architectures.
+- Learning container orchestration with **Kubernetes**.
 
-  </main>
+### 🛒 E-Commerce Development
+- Developed and maintained multiple e-commerce platforms with end-to-end functionality.
+- Integrated payment gateways, order management systems, and admin dashboards.
+- Focused on performance, SEO, and user experience optimization.
 
-  <footer>
-    <p>© 2025 Hassan Ali. All rights reserved.</p>
-  </footer>
+---
 
-</body>
-</html>
+## 🔢 Data Structures & Algorithms
+
+- Solved over **500+ problems** across platforms like LeetCode, HackerRank, and Codeforces.
+- Strong command over algorithms, dynamic programming, recursion, and graph theory.
+- Frequently participate in coding competitions and hackathons.
+
+---
+
+## 🧰 Tech Stack
+
+| Domain             | Tools & Technologies                                                                 |
+|--------------------|--------------------------------------------------------------------------------------|
+| 💻 Languages        | Python, JavaScript, C++, Bash, HTML/CSS                                             |
+| 🌐 Web Development | React.js, Node.js, Express.js, MongoDB, Firebase                                     |
+| 🔧 DevOps           | Git, Docker, Jenkins, GitHub Actions, Nginx, Linux                                  |
+| ☁️ Cloud Platforms  | AWS (EC2, S3, IAM), GCP (learning), Azure (learning)                                |
+| 📊 Data Tools       | Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook                           |
+| 🗄️ Databases        | MySQL, MongoDB, PostgreSQL                                                          |
+| 🧪 Testing           | Postman, Jest (learning), Unit Testing Frameworks                                   |
+| ⚙️ Other Tools      | VS Code, GitHub, Figma, Trello, Slack                                               |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hassanali-web&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassanali-web&theme=github-dark&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🚀 Projects
+
+Some of my featured projects include:
+
+- **DevOps Dashboard** – Real-time CI/CD status tracking and monitoring dashboard.
+- **E-Commerce Platform** – MERN-based responsive and scalable storefront with user/admin roles.
+- **ML Classifier** – Machine learning model for classifying user behavior in online transactions.
+
+---
+
+## 📚 Currently Exploring
+
+- 🧠 Deep Learning & AI Models
+- ☁️ Serverless Architecture on AWS Lambda
+- 📦 Kubernetes and Cloud-Native Microservices
+- 🛡️ Cloud Security Best Practices
+
+---
+
+> *"Building reliable systems, writing clean code, and never stopping the learning journey."*
+

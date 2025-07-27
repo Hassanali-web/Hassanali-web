@@ -20,7 +20,7 @@ Currently, I'm expanding my skill set into **Data Science** and **Cloud Computin
 
 **Bachelor of Science in Computer Science (BSCS)**  
 *National Textile University, Faisalabad*  
-*Expected Graduation: 2 *  
+ Expected Graduation: 2   
 
 ---
 

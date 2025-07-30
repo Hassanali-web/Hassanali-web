@@ -76,7 +76,8 @@ Currently, I'm expanding my skill set into **Data Science** and **Cloud Computin
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hassanali-web&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassanali-web&theme=github-dark&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassanali-web&theme=github-dark&hide_border=true" width="48%" />
+
 </p>
 
 --- 

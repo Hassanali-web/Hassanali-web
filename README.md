@@ -79,7 +79,7 @@ Currently, I'm expanding my skill set into **Data Science** and **Cloud Computin
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassanali-web&theme=github-dark&hide_border=true" width="48%" />
 </p>
 
----
+--- 
 
 ##  Projects
 
